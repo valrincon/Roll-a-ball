@@ -14,8 +14,9 @@ Valeria Rincon
 ## How to Play
 1. Clone or download this repository.
 2. Open the project in **Unity Editor (2021.x or later recommended)**
-3. Press **Play** to try it out!
-4. Roll the ball with arrow keys and collect all the yellow pickups.
+3. Build the game from the Unity Editor (`File > Build Profiles`) to create an executable.
+4. Open the executable to try it out!
+5. Roll the ball with arrow keys and collect all the yellow pickups.
 
 ## Screenshots
 [Going up the ramp](Screenshots/Going-up-the-ramp.gif)
@@ -23,9 +24,6 @@ Valeria Rincon
 [Dynamic obstacle](Screenshots/Dynamic-obstacle.gif)
 [Winning](Screenshots/Winning.gif)
 [Losing](Screenshots/Losing.gif)
-
-## Build
-You can build the game from the Unity Editor (`File > Build Profiles`) to create an executable and share it with others.
 
 ## Learning
 This project was created as part of the Unity Learn course:  
