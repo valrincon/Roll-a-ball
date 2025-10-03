@@ -19,11 +19,11 @@ Valeria Rincon
 5. Roll the ball with arrow keys and collect all the yellow pickups.
 
 ## Screenshots
-[Going up the ramp](Screenshots/Going-up-the-ramp.gif)
-[Behind the wall](Screenshots/Behind-wall.gif)
-[Dynamic obstacle](Screenshots/Dynamic-obstacle.gif)
-[Winning](Screenshots/Winning.gif)
-[Losing](Screenshots/Losing.gif)
+![Going up the ramp](Screenshots/Ramp.gif)
+![Behind the wall](Screenshots/Wall.gif)
+![Dynamic obstacle](Screenshots/Obstacle.gif)
+![Winning](Screenshots/Winning.gif)
+![Losing](Screenshots/Losing.gif)
 
 ## Learning
 This project was created as part of the Unity Learn course:  
