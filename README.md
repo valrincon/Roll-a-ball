@@ -18,7 +18,11 @@ Valeria Rincon
 4. Roll the ball with arrow keys and collect all the yellow pickups.
 
 ## Screenshots
-
+[Going up the ramp](Screenshots/Going-up-the-ramp.gif)
+[Behind the wall](Screenshots/Behind-wall.gif)
+[Dynamic obstacle](Screenshots/Dynamic-obstacle.gif)
+[Winning](Screenshots/Winning.gif)
+[Losing](Screenshots/Losing.gif)
 
 ## Build
 You can build the game from the Unity Editor (`File > Build Profiles`) to create an executable and share it with others.
